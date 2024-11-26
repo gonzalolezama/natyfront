@@ -51,6 +51,16 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
 */
 }
 
+.novedades{
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 16px 0;
+  display: flex;
+  gap:32px;
+  align-items: center;
+}
+
 
 
 
