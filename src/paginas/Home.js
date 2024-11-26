@@ -5,13 +5,13 @@ const Home = (props) => {
             <div id="carouselExample" class="carousel slide">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="img/home/img01.jpg" class="d-block w-100" alt="casa 1">
+                        <img src="img/home/img01.jpg" class="d-block w-100" alt="casa 1" />
                     </div>
                     <div class="carousel-item">
-                        <img src="img/home/img02.jpg" class="d-block w-100" alt="casa 2">
+                        <img src="img/home/img02.jpg" class="d-block w-100" alt="casa 2" />
                     </div>
                     <div class="carousel-item">
-                        <img src="img/home/img03.jpg" class="d-block w-100" alt="casa 3">
+                        <img src="img/home/img03.jpg" class="d-block w-100" alt="casa 3" />
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
