@@ -3,26 +3,8 @@ import './../styles/home.css';
 const Home = (props) => {
     return (
         <main className="holder">
-            <div id="carouselExample" className="carousel slide" data-bs-ride="carousel">
-                <div className="carousel-inner">
-                    <div className="carousel-item active">
-                        <img src="/img/home/img01.jpg" className="d-block w-100" alt="casa 1" />
-                    </div>
-                    <div className="carousel-item">
-                        <img src="/img/home/img02.jpg" className="d-block w-100" alt="casa 2" />
-                    </div>
-                    <div className="carousel-item">
-                        <img src="/img/home/img03.jpg" className="d-block w-100" alt="casa 3" />
-                    </div>
-                </div>
-                <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span className="visually-hidden">Previous</span>
-                </button>
-                <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                    <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span className="visually-hidden">Next</span>
-                </button>
+            <div className="homeimg">
+                <img src="img/home/img02.jpg" alt="casa2" />
             </div>
             <div className="columnas">
                 <div className="bienvenidos">
@@ -36,7 +18,7 @@ const Home = (props) => {
                 <div className="testimonios">
                     <h2>Testimonios</h2>
                     <div className="testimonio">
-                        <span className="cita">Compramos nuestra vivienda familiar en RMX</span>
+                        <span className="cita">Compramos nuestra vivienda familiar, Exelente atención</span>
                         <p className="reseña">Juan Rodriguez</p>
 
                     </div>
