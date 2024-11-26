@@ -57,6 +57,7 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   padding: 16px;
   margin: 16px 0;
   display: flex;
+  flex-direction: column;
   gap:32px;
   align-items: center;
 }
