@@ -38,3 +38,8 @@
 .testimonios .reseña {
     text-align: center;
 }
+
+.homeimg img {
+    width: 960px;
+    height: 250px;
+  }
