@@ -1,4 +1,3 @@
-import './../styles/novedades.css';
 import React from "react";
 
 const NovedadItem = (props) => {
