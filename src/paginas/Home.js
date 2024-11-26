@@ -3,19 +3,16 @@ const Home = (props) => {
     return (
         <main className="holder">
             <div className="homeimg">
-            <img src="img/home/img01.jpg" alt="avion"/>
+                <img src="img/home/img01.jpg" alt="avion" />
             </div>
             <div className="columnas">
                 <div className="bienvenidos">
-                    <h2>Bienvenidos</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus deleniti eum ducimus,
-                        dolorem sed amet pariatur provident doloremque nihil nostrum excepturi possimus itaque molestiae ea
-                        quis incidunt delectus. Ipsa, dolor.</p>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque error accusantium, assumenda dolores
-                        officia minima quas, cupiditate eos doloremque quo enim voluptatem dicta vero pariatur libero
-                        voluptatum illo ipsa ad.
-
-                    </p>
+                    <h2>Bienvenidos a Inmuebles Gervasoni</h2>
+                    <p>Nos complace darte la bienvenida a nuestra plataforma dedicada a la compra y venta de propiedades en Córdoba, Argentina. En [Nombre de tu Empresa], entendemos que cada transacción inmobiliaria es un paso importante en tu vida, y estamos aquí para acompañarte en cada etapa del proceso.</p>
+                    <p>Nuestro equipo se distingue por su profesionalismo y amplia experiencia en el mercado. Nos comprometemos a ofrecerte un servicio excepcional, brindando consejos expertos y soluciones personalizadas que se ajusten a tus necesidades específicas. Ya sea que estés buscando tu hogar ideal, una inversión estratégica o necesites vender una propiedad, estamos listos para ayudarte.                  </p>
+<p>Tu satisfacción es nuestra prioridad. Gracias por confiar en nosotros para hacer realidad tus sueños inmobiliarios en Córdoba. ¡Explora nuestras propiedades y déjanos guiarte hacia tu próximo gran paso!</p>
+                <p>Atentamente,</p>
+               <p>El equipo de Inmuebles Gervasoni</p>
                 </div>
                 <div className="testimonios">
                     <h2>Testimonios</h2>
