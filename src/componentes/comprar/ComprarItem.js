@@ -9,7 +9,7 @@ const ComprarItem = (props) => {
             <h3> {zo} </h3>
             <h3> {ub} </h3>
             <h3> {tip} </h3>
-            <img src={imagen} />
+            <img src={imagen}alt={title} />
             <h2> u$s {pr} </h2>
             
             <div dangerouslySetInnerHTML={{__html:des}} />
