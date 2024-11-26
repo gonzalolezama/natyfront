@@ -1,4 +1,3 @@
-import './../styles/novedades.css';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import NovedadItem from '../componentes/novedades/NovedadItem';
