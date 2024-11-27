@@ -5,12 +5,12 @@ const ComprarItem = (props) => {
 // aca donde armo el diseño
     return (
         <div className="comprar">
-            <h1>{ti}</h1>
-            <h3> {zo} </h3>
-            <h3> {ub} </h3>
-            <h3> {tip} </h3>
+            <h4>{ti}</h4>
+            <h5> {zo} </h5>
+            <h5> {ub} </h5>
+            <h5> {tip} </h5>
             <img src={imagen} alt={ti} />
-            <h2> u$s {pr} </h2>
+            <h6> u$s {pr} </h6>
             
             <div dangerouslySetInnerHTML={{__html:des}} />
             <hr />

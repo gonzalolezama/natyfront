@@ -18,7 +18,7 @@ const Home = (props) => {
                 <div className="testimonios">
                     <h2>Testimonios</h2>
                     <div className="testimonio">
-                        <span className="cita">Compramos nuestra vivienda familiar, Exelente atención</span>
+                        <span className="cita">Compramos nuestra vivienda familiar, Excelente atención</span>
                         <p className="reseña">Juan Rodriguez</p>
 
                     </div>
