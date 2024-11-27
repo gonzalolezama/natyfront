@@ -69,11 +69,11 @@ const ContactoPage = (props) => {
                 <h2>Otras vias de Comunicación</h2>
                 <p>También puede comunicarse con nosotros usando los siguientes medios:</p>
                 <ul>
-                    <li>Telefonó:1234567</li>
+                    <li>Telefonó:351 7453045</li>
                     <li>Email: natalia@gervasoni.com.ar</li>
                     <li>Instagram:natalia@</li>
                     <li>Facebook</li>
-                    <li>Whatsapp</li>
+                    <li>Whatsapp: +5493517453045</li>
                 </ul>
             </div>
         </main>
