@@ -16,9 +16,10 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
 }
 
 h2 {
-  color: red;
-  font-weight: 400;
+  color: rgb(122, 124, 124);
+  font-weight: 700;
 }
+
 header {
   background-color: red;
   padding: 15px 0;
@@ -29,7 +30,7 @@ header img {
 }
 
 header h2 {
-  color:#e0e1e5;
+  color: #e0e1e5;
   font-size: 50px;
   font-weight: 400;
   font-style: normal;
@@ -51,37 +52,31 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
 */
 }
 
-.novedades{
+.novedades {
   border: 1px solid #ccc;
   border-radius: 10px;
   padding: 16px;
   margin: 16px 0;
   display: flex;
   flex-direction: column;
-  gap:32px;
+  gap: 32px;
   align-items: center;
 }
 
+.novedades h4 {
+  font-size: 14px;
+  margin-top: 5px;
+}
 
+.novedades h5 {
+  font-size: 12px;
+  margin-top: 3px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.novedades img {
+  border-radius: 10%;
+  width: 120px;
+  height: 120px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  margin-right: 20px;
+}
