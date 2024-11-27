@@ -64,14 +64,14 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   }
 
 .novedades h4 {
-  color: #d3d6e0;
+  color: #1f1f20;
   font-size: 20px;
   margin-top: 5px;
   margin-inline-end: 5px;
 }
 
 .novedades p {
-  font-size: 22px;
+  font-size: 16px;
   margin-top: 3px;
 }
 
