@@ -5,9 +5,9 @@ const NovedadItem = (props) => {
 
     return (
         <div className="novedades">
-            <h1>{title}</h1>
-            <h2> {subtitle} </h2>
-            <img src={imagen} alt={title} />
+            <h4>{title}</h4>
+            <p> {subtitle} </p>
+            <img src={imagen} alt={title}  style={{ marginLeft: '10px', borderRadius: '10%', width: '120px', height: '120px', boxShadow: '0 0 5px rgba(0,0,0,0.5)' }} />
             <div dangerouslySetInnerHTML={{__html:body}} />
             <hr />
         </div>

@@ -68,8 +68,8 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   margin-top: 5px;
 }
 
-.novedades h5 {
-  font-size: 12px;
+.novedades p {
+  font-size: 10px;
   margin-top: 3px;
 }
 
@@ -78,5 +78,5 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   width: 120px;
   height: 120px;
   box-shadow: 0 0 5px rgba(0,0,0,0.5);
-  margin-right: 20px;
+  
 }
