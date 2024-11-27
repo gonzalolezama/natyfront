@@ -127,3 +127,7 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   height: 340px;
   box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
+
+.contenido {
+  margin-top: 0px;
+}

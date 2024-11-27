@@ -12,7 +12,7 @@ const ComprarItem = (props) => {
             <img src={imagen} alt={ti} />
             <h6> u$s {pr} </h6>
             
-            <div dangerouslySetInnerHTML={{__html:des}} />
+            <div className="contenido" dangerouslySetInnerHTML={{__html:des}} />
             <hr />
         </div>
     
