@@ -62,6 +62,9 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   flex-direction: column;
   gap: 5px;
   }
+  .novedades2 {
+    flex: auto;
+  }
 
 .novedades h4 {
   color: #1f1f20;
