@@ -53,7 +53,7 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
 }
 
 .novedades {
-  align-items: left;
+  align-items: flex-start;
   border: 1px solid #ccc;
   border-radius: 10px;
   padding: 16px;S
