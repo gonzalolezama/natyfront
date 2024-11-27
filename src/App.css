@@ -99,7 +99,7 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   color: #1f1f20;
   font-size: 20px;
   margin-top: 1px;
-  margin-inline-end: 3mm;
+  margin-inline-end: 1mm;
 }
 
 .comprar h5 {
@@ -112,7 +112,7 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   color: red;
   font-size: 24px;
   margin-top: 3mm;
-  margin-inline-end: 3mm;
+  margin-inline-end: 1mm;
 }
 
 .comprar p {
