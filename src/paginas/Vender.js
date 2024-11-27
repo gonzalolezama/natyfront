@@ -5,7 +5,7 @@ const Vender = (props) => {
         <p>Vender una propiedad en el mercado de bienes raíces (RMX) puede ofrecer varios beneficios. Aquí te dejo
             algunos de los más destacados:</p>
         <div className="vender">
-            <img src="img/servicios/vender.jpg" alt="veder"/>
+            <img src="img/servicios/vender.jpg" alt="vender"/>
             <div className="info">
                 <h4>Liquidez inmediata:</h4>
                 <p>Vender una propiedad puede generar una gran suma de dinero en efectivo que puedes utilizar para otros
@@ -13,7 +13,7 @@ const Vender = (props) => {
             </div>
         </div>
         <div className="vender">
-            <img src="img/servicios/vender2.jpg" alt="veder"/>
+            <img src="img/servicios/vender2.jpg" alt="vender1"/>
             <div className="info">
                 <h4>Valor de mercado:</h4>
                 <p>Si has mantenido bien tu propiedad y el mercado está en alza, puedes obtener un precio excelente que
@@ -21,7 +21,7 @@ const Vender = (props) => {
             </div>
         </div>
         <div className="vender">
-            <img src="img/servicios/vender3.jpg" alt="veder"/>
+            <img src="img/servicios/vender3.jpg" alt="vender2"/>
             <div class="info">
                 <h4>Menos responsabilidad:</h4>
                 <p>Al vender tu propiedad, te liberas de las responsabilidades que conlleva ser propietario, como el
@@ -29,7 +29,7 @@ const Vender = (props) => {
             </div>
         </div>
         <div className="vender">
-            <img src="img/servicios/vernder4.jpg" alt="veder"/>
+            <img src="img/servicios/vender4.jpg" alt="vender3"/>
             <div className="info">
                 <h4>Diversificación de inversiones: </h4>
                 <p>Al vender, puedes diversificar tus inversiones, invirtiendo en diferentes tipos de activos que
