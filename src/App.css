@@ -61,17 +61,17 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   display: flex;
   flex-direction: column;
   gap: 5px;
-  align-items: center;
-}
+  }
 
 .novedades h4 {
+  color: #d3d6e0;
   font-size: 20px;
   margin-top: 5px;
   margin-inline-end: 5px;
 }
 
 .novedades p {
-  font-size: 10px;
+  font-size: 22px;
   margin-top: 3px;
 }
 
