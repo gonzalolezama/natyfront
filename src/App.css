@@ -99,20 +99,20 @@ El punto antes de "mi-clase" le dice al navegador que aplique estas reglas de es
   color: #1f1f20;
   font-size: 20px;
   margin-top: 1px;
-  margin-inline-end: 2px;
+  margin-inline-end: 3mm;
 }
 
 .comprar h5 {
   color: #1f1f20;
   font-size: 15px;
-  margin: 1px;
+  margin: 2px;
 }
 
 .comprar h6 {
   color: red;
   font-size: 24px;
-  margin-top: 1px;
-  margin-inline-end: 2px;
+  margin-top: 3mm;
+  margin-inline-end: 3mm;
 }
 
 .comprar p {
